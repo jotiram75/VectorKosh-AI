@@ -1,0 +1,41 @@
+# Node / Frontend
+node_modules/
+**/node_modules/
+dist/
+**/dist/
+.env
+.env.local
+.env.*.local
+*.log
+
+# Java / Maven Backend
+target/
+**/target/
+*.class
+*.jar
+*.war
+*.ear
+
+# Compiled C++ & Executables
+*.exe
+*.o
+*.obj
+*.out
+*.dll
+*.so
+*.dylib
+a.out
+build/
+bin/
+cmake-build-*/
+
+# IDE & Editor files
+.vscode/
+.idea/
+*.user
+*.suo
+*.swp
+
+# OS generated files
+.DS_Store
+Thumbs.db
