@@ -1,7 +1,11 @@
 # VectorKosh AI — High-Performance Vector Database & Local RAG Workbench
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-vectorkoshai.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vectorkoshai.vercel.app/)
+
 A fully working **Vector Database & RAG Pipeline** built from scratch in Java with **Spring Boot** and a **React JS** web UI.  
 Implements **HNSW**, **KD-Tree**, and **Brute Force** search algorithms side-by-side, plus a **RAG pipeline** powered by a local LLM via Ollama.
+
+🌐 **Live Demo App:** [https://vectorkoshai.vercel.app/](https://vectorkoshai.vercel.app/)
 
 > Built as an educational project to show how production vector databases like Pinecone, Weaviate, and Chroma actually work under the hood.
 
